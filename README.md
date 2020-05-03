@@ -25,17 +25,17 @@ Libraries:
     binary_search
     string_search
 
-  collection Classes -> 
+  Collection Classes -> 
 
-  SinglyLinkedList
-  DoublyLinkedList
-  Stack
-  Queue
-  BinaryMaxHeap
-  PriorityQueue
-  BinarySearchTree
-  Graph
-  HashTable
+    SinglyLinkedList
+    DoublyLinkedList
+    Stack
+    Queue
+    BinaryMaxHeap
+    PriorityQueue
+    BinarySearchTree
+    Graph
+    HashTable
 
 
   Examples: 

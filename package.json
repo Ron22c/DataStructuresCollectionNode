@@ -1,6 +1,6 @@
 {
   "name": "collectiondatalib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this contains all of the data structures implemented and ready to use",
   "main": "index.js",
   "scripts": {
@@ -13,8 +13,8 @@
     "datastructures"
   ],
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/Ron22c/DataStructuresCollectionNode"
+    "type": "git",
+    "url": "https://github.com/Ron22c/DataStructuresCollectionNode"
   },
   "author": "RanajitChandra",
   "license": "ISC"

@@ -1,0 +1,23 @@
+const Sort = require('./sort')
+const Search = require('./search')
+const SinglyLinkedList = require('./singlyLinkedList')
+const DoublyLinkedList = require('./DoublyLinkedList')
+const Stack = require('./stack')
+const Queue = require('./queue')
+const BinaryMaxHeap = require('./BinaryMaxHeap')
+const PriorityQueue = require('./PriorityQueue')
+const BinarySearchTree = require('./binarySearchTree')
+const Graph = require('./graph')
+const HashTable = require('./hashTable')
+
+module.exports.Sort=Sort
+module.exports.Search=Search
+module.exports.SinglyLinkedList=SinglyLinkedList
+module.exports.DoublyLinkedList=DoublyLinkedList
+module.exports.Stack=Stack
+module.exports.Queue=Queue
+module.exports.BinaryMaxHeap=BinaryMaxHeap
+module.exports.PriorityQueue=PriorityQueue
+module.exports.BinarySearchTree=BinarySearchTree
+module.exports.Graph=Graph
+module.exports.HashTable=HashTable

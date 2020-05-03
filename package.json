@@ -1,0 +1,17 @@
+{
+  "name": "collectiondatalib",
+  "version": "1.0.0",
+  "description": "this contains all of the data structures implemented and ready to use",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "collections",
+    "datastructures"
+  ],
+  "author": "RanajitChandra",
+  "license": "ISC"
+}
